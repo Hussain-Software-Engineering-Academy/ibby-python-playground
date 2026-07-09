@@ -1,6 +1,17 @@
 player = "Ibby"
-print (player)
+print (f"Player: {player}")
 health = 100
-print (health)
+print (f"Health: {health}")
 gold = 50
-print (gold)
+print (f"Gold: {gold}")
+
+player = "Ibby"
+health = 100
+gold = 50
+print(player)
+player = "Steve"
+print(player)
+print(health)
+
+health = 75
+print(health)
