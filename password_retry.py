@@ -7,6 +7,4 @@ while attempts > 0:
         break
     elif password_attempt != password:
         attempts = attempts - 1
-        print(f"Incorrect password. You have {attempts} attempt(s) left.")
-    else:
-        print("Access denied.")
+print("Access denied.")
