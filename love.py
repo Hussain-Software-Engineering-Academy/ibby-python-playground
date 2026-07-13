@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+favorite_person = input("Who is your favorite person? ")
+favorite_activity = input("What is your favorite activity to do with them? ")
+print ()
+print (f"{name} loves {favorite_person}, and their favorite activity to do with them is {favorite_activity}.")
+print ()

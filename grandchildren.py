@@ -1,0 +1,6 @@
+name = input("What is your name? ")
+number_of_grandchildren = input("How many grandchildren do you have? ")
+favorite_grandchild = input("Who is your favorite grandchild? ")
+print ()
+print (f"{name} has {number_of_grandchildren} grandchildren, but their favorite grandchild is {favorite_grandchild}.")
+print ()
